@@ -4,6 +4,7 @@
 This repository is created for **learning Kubernetes fundamentals**. It contains example manifests to practice with ConfigMaps, Secrets, Deployments, and Services.
 
 ## 📂 Folder Structure
+```
 examples/
 └── python-web-app/
 ├── configmaps/
@@ -14,6 +15,7 @@ examples/
 │   └── app-deployment.yaml
 └── services/
 └── app-service.yaml
+```
 
 ## ⚠️ Important Note
 - Secrets in this repository contain **dummy values** for demonstration purposes.  
