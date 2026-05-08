@@ -6,15 +6,14 @@ This repository is created for **learning Kubernetes fundamentals**. It contains
 ## 📂 Folder Structure
 ```
 examples/
-└── python-web-app/
-├── configmaps/
-│   └── app-config.yaml
+└── configmaps/
+│   └── configmap.yaml
 ├── secrets/
-│   └── app-secret.yaml
+│   └── secret.yaml
 ├── deployments/
-│   └── app-deployment.yaml
+│   └── deployment.yaml
 └── services/
-└── app-service.yaml
+    └── service.yaml
 ```
 
 ## ⚠️ Important Note
