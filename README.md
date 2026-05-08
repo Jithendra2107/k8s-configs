@@ -5,13 +5,13 @@ This repository is created for **learning Kubernetes fundamentals**. It contains
 
 ## 📂 Folder Structure
 ```
-examples/
+k8s-configs
 └── configmaps/
 │   └── configmap.yaml
-├── secrets/
-│   └── secret.yaml
 ├── deployments/
 │   └── deployment.yaml
+├── secrets/
+│   └──  secret.yaml
 └── services/
     └── service.yaml
 ```
